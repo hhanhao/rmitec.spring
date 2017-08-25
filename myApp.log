@@ -1,0 +1,10 @@
+2017-08-24 20:40:38,581 DEBUG [main] c.r.l.HelloWorld2 [HelloWorld2.java:14] myAppName  hello world2
+2017-08-24 20:40:38,585 DEBUG [main] c.r.l.HelloWorld2 [HelloWorld2.java:15] myAppName  logger.name:cn.rmitec.logback.HelloWorld2
+2017-08-24 20:40:58,266 INFO [main] c.r.l.HelloWorld2 [HelloWorld2.java:14] myAppName  hello world2
+2017-08-24 20:40:58,271 INFO [main] c.r.l.HelloWorld2 [HelloWorld2.java:15] myAppName  logger.name:cn.rmitec.logback.HelloWorld2
+2017-08-25 10:15:38,545 DEBUG [main] c.r.l.HelloWorld [HelloWorld.java:13] myAppName  hello world
+2017-08-25 10:15:38,577 DEBUG [main] c.r.l.HelloWorld [HelloWorld.java:14] myAppName  logger.name:cn.rmitec.logback.HelloWorld
+2017-08-25 10:15:38,579 INFO [main] c.r.l.HelloWorld [HelloWorld.java:18] myAppName  innnnn===============
+2017-08-25 10:15:57,188 DEBUG [main] c.r.l.HelloWorld [HelloWorld.java:13] myAppName  hello world
+2017-08-25 10:15:57,217 INFO [main] c.r.l.HelloWorld [HelloWorld.java:14] myAppName  logger.name:cn.rmitec.logback.HelloWorld
+2017-08-25 10:15:57,219 INFO [main] c.r.l.HelloWorld [HelloWorld.java:18] myAppName  innnnn===============

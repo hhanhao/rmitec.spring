@@ -1,0 +1,14 @@
+10:15:38.545 [main] DEBUG HelloWorld - hello world
+10:15:38.577 [main] DEBUG HelloWorld - logger.name:cn.rmitec.logback.HelloWorld
+10:15:57.188 [main] DEBUG HelloWorld - hello world
+10:15:57.217 [main] INFO  HelloWorld - logger.name:cn.rmitec.logback.HelloWorld
+10:16:48.019 [main] DEBUG HelloWorld - hello world
+10:16:48.050 [main] INFO  HelloWorld - logger.name:cn.rmitec.logback.HelloWorld
+10:31:33.553 [main] DEBUG HelloWorld - hello world
+10:34:33.151 [main] INFO  HelloWorld - logger.name:cn.rmitec.logback.HelloWorld
+10:42:54.854 [main] DEBUG HelloWorld - hello world
+10:43:58.386 [main] INFO  HelloWorld - logger.name:cn.rmitec.logback.HelloWorld
+10:44:54.968 [main] DEBUG HelloWorld - hello world
+10:45:31.447 [main] INFO  HelloWorld - logger.name:cn.rmitec.logback.HelloWorld
+11:16:20.677 [main] DEBUG HelloWorld - hello world
+11:28:09.042 [main] INFO  HelloWorld - logger.name:cn.rmitec.logback.HelloWorld

@@ -1,0 +1,6 @@
+cn\rmitec\logback\HelloWorld.class
+cn\rmitec\spring\Person.class
+cn\rmitec\common\service\BankService.class
+cn\rmitec\spring\App.class
+cn\rmitec\spring\dao\PersonDAO.class
+cn\rmitec\spring\dao\PersonDAOTest.class
